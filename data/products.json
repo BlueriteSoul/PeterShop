@@ -1,0 +1,37 @@
+[
+  {
+    "id": "prod_001",
+    "name": "Classic T-Shirt",
+    "price": 19.99,
+    "description": "A comfortable and stylish classic t-shirt.",
+    "imageUrl": "https://via.placeholder.com/300x200.png?text=T-Shirt"
+  },
+  {
+    "id": "prod_002",
+    "name": "Modern Headphones",
+    "price": 79.50,
+    "description": "High-quality sound with a sleek design.",
+    "imageUrl": "https://via.placeholder.com/300x200.png?text=Headphones"
+  },
+  {
+    "id": "prod_003",
+    "name": "Coffee Mug",
+    "price": 12.00,
+    "description": "The perfect mug for your morning coffee.",
+    "imageUrl": "https://via.placeholder.com/300x200.png?text=Mug"
+  },
+  {
+    "id": "prod_004",
+    "name": "Laptop Sleeve",
+    "price": 25.00,
+    "description": "Protect your laptop with this durable sleeve.",
+    "imageUrl": "https://via.placeholder.com/300x200.png?text=Laptop+Sleeve"
+  },
+  {
+    "id": "prod_005",
+    "name": "Wireless Mouse",
+    "price": 30.99,
+    "description": "Ergonomic wireless mouse for smooth navigation.",
+    "imageUrl": "https://via.placeholder.com/300x200.png?text=Wireless+Mouse"
+  }
+]
